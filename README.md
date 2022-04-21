@@ -5,7 +5,7 @@ Authors:
 - Kyle Weesner
  
 ## Overview
-Syriatel Mobile Telecom is a service pervider that currently serves more than 8 million people today having 199 international roaming partners in 116 countries.  As a data scientist at this company, I am currently tasked with creating a model to predict when might customers stop doing business with us.  By building a model to help predict when customers will deter away from our service we can either offer additional resources to make the customer happier and improve our services that may be not opitimal at the same time.  This is a great way to see where improvements to our company may need to be done. 
+Syriatel Mobile Telecom is a service pervider that currently serves more than 8 million people today having 199 international roaming partners in 116 countries.  As a data scientist, I am currently creating a model to predict when might customers stop doing business with us.  By building a model to help predict when customers will deter away from our service we can either offer additional resources to make the customer happier and improve our services that may be not opitimal at the same time.  This is a great way to see where improvements to our company may need to be done. 
 
 
 ## Business Problem
