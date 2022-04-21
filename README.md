@@ -1,4 +1,4 @@
-# Customer retention plan for Syriatel Mobel Telecom
+# Customer retention plan for Syriatel Mobile Telecom
  
  
 Authors:
@@ -9,7 +9,7 @@ Syriatel Mobile Telecom is a service pervider that currently serves more than 8 
 
 
 ## Business Problem
-Service providers strive to maintain a healthy balance between gaining new customers while minimizing those who switch providers.  As a business we want to maximize profit where it can be done without making unhappy customers, so one place this can be done is the retention rate of customers.  With our retention of customers model, we will improve features in our business that seem to have a correlation with leaving and at the same time offer additional support to customers who are considering leaving our service.  
+Service providers strive to maintain a healthy balance between gaining new customers while minimizing those who switch providers.  As a business we want to maximize profit where it can be done without making unhappy customers, so one place this can be done is the retention rate of customers.  With our predictive model, we will improve features in our business that seem to have a correlation with leaving customers and at the same time offer additional support to customers who are considering leaving our service.  
 
  
 ## Data
