@@ -3,6 +3,8 @@
  
 Author: Kyle Weesner
  
+![img](https://user-images.githubusercontent.com/100227270/164761114-66157306-2f16-4f94-ae27-9a7140ad7f11.jpg)
+
 ## Overview
 Syriatel Mobile Telecom is a service pervider that currently serves more than 8 million people today having 199 international roaming partners in 116 countries.  As a data scientist, I am currently creating a model to predict when might customers churn.  By building a model to help predict when customers will deter away from the service I can either offer additional advice to for the company to allocate resources to make the customer happier and improve our services that may be not opitimal at the time.  This is a great way to see where improvements to the company may need to be done. 
 
@@ -33,24 +35,24 @@ Follow through these notebooks in order that are located in the workspace folder
 ## Results
 Model Proformance Metrics
 
-![img]('./images/confusion_matrix')
+![img](./images/confusion_matrix.png)
 
 
 Model Improvements
 
-![img]('./images/model_improvement.jpg')
+![img](./images/model_improvement.jpg)
 
 
 From the final model I looked at the feature importances and found that Customer Service Calls, Total Day Charge, and International Plan had the largest impact on our model. So based on my final model drew out these three instances.    
 
 
-![img]('./images/customers_service_calls.jpg')
+![img](./images/customers_service_calls.jpg)
 
 
-![img]('./images/customers_status_percentile_averages.jpg')
+![img](./images/customers_status_percentile_averages.jpg)
 
 
-![img]('./images/retention_comparison_interrnational_plan.jpg')
+![img](./images/retention_comparison_interrnational_plan.jpg)
 
 
 
