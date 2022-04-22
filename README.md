@@ -88,7 +88,8 @@ Business Recommendation
 │       ├── Feature Importance Analysis.ipynb
 │       └── Model Building.ipynb
 ├── .gitignore
-└── README.md
+├── README.md
+└── presentation.pdf
 ```
  
 ### Next Steps
