@@ -26,11 +26,11 @@ A productive model was made with a combination between the data and tools used i
 
 Follow through these notebooks in order to follow workflow.  They can be found in the workspace folder in this repository.
 
-1. [Data Cleaning and Exploratory Data Analysis](./Data&#32;Cleaning&#32;and&#32;Exploratory&#32;Data&#32;Analysis.ipynb)
+1. [Data Cleaning and Exploratory Data Analysis](https://github.com/KyleWeesner/Customer_retention_plan_for_Syriatel_Mobile_Telecom/blob/main/workspace/Data%20Cleaning%20and%20Exploratory%20Data%20Analysis.ipynb)
 
-2. [Model Building](./Model&#32;Building.ipynb)
+2. [Model Building](https://github.com/KyleWeesner/Customer_retention_plan_for_Syriatel_Mobile_Telecom/blob/main/workspace/Model%20Building.ipynb)
 
-3. [Feature Importance Analysis](./Feature&#32;Importance&#32;Analysis.ipynb)
+3. [Feature Importance Analysis](https://github.com/KyleWeesner/Customer_retention_plan_for_Syriatel_Mobile_Telecom/blob/main/workspace/Feature%20Importance%20Analysis.ipynb)
 
 
 
